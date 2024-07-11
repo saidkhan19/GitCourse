@@ -1,3 +1,5 @@
-It is a feature-1 file.
+It is a feature-1 file. Added in feature-2 again.
 
 This file is modified locally.
+
+This line is added in feature-2.
